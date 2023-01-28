@@ -6,9 +6,7 @@
 
 <img align="right" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" style="width: 50%" />
 
-<hr>
-
-<div>
+<div style="width: 100%; margin-top: 10px;">
   <a href="https://www.linkedin.com/in/rafael-barbieru/">
     Connect with me on LinkedIn! <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" target="_blank">
   </a>
