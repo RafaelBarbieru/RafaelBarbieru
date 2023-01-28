@@ -6,7 +6,7 @@
 
 <img align="right" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" style="width: 50%" />
 
-<br>
+<hr>
 
 <div>
   <a href="https://www.linkedin.com/in/rafael-barbieru/">
