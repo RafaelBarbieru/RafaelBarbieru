@@ -6,6 +6,8 @@
 
 <img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=t2pgcbpsdn8oxevpfm4ppjvxo&count=3&unique=true" alt="Spotify recently played">
 
+<img align="right" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+
 <a href="https://www.linkedin.com/in/rafael-barbieru/">
-  Connect with me on LinkedIn! <img align="right" height="32" width="32" src="https://cdn.simpleicons.org/linkedin" target="_blank">
+  Connect with me on LinkedIn! <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" target="_blank">
 </a>
