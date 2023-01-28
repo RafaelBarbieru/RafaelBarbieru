@@ -2,7 +2,7 @@
 
 <img src="https://github.com/RafaelBarbieru/RafaelBarbieru/blob/main/1673702086148.jfif" alt="Banner">
 
-<div style="width: 100%; margin-top: 10px;">
+<div style="width: 100%; padding: 10px;">
   <a href="https://www.linkedin.com/in/rafael-barbieru/">
     Connect with me on LinkedIn! <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" target="_blank">
   </a>
